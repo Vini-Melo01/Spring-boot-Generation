@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Atividade1/Atividade1/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Atividade1/Atividade1/src/main/java"/>
+	<classpathentry kind="src" path="Atividade1/Atividade1/src/test/java"/>
+	<classpathentry kind="src" path="blogpessoal/blogpessoal/.mvn/wrapper"/>
+	<classpathentry kind="src" path="blogpessoal/blogpessoal/src/main/java"/>
+	<classpathentry kind="src" path="blogpessoal/blogpessoal/src/test/java"/>
+	<classpathentry kind="src" path="hello/.mvn/wrapper"/>
+	<classpathentry kind="src" path="hello/src/main/java"/>
+	<classpathentry kind="src" path="hello/src/test/java"/>
+	<classpathentry kind="output" path="Atividade1/Atividade1/target/classes"/>
+</classpath>
